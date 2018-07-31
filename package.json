@@ -1,0 +1,9 @@
+{
+  "name": "@supersoccer/minako",
+  "version": "1.0.0",
+  "description": "A clean, responsive documentation template theme for JSDoc 3 derived from minami",
+  "main": "index.js",
+  "repository": "https://github.com/supersoccer/minako",
+  "author": "hkyo89 <hkyo89@yahoo.co.jp>",
+  "license": "MIT"
+}
